@@ -1,0 +1,22 @@
+.online {
+  color: rgb(55 126 34);
+  margin: 0;
+  font-size: large;
+}
+
+.offline {
+  color: rgb(234 51 35);
+  margin: 0;
+  font-size: large;
+  margin-bottom: 10px;
+}
+
+.friendName {
+  margin: 0;
+  font-weight: 500;
+  font-size: x-large;
+}
+
+.img {
+  margin-top: 10px;
+}
